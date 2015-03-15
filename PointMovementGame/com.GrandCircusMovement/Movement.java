@@ -2,6 +2,7 @@ import java.awt.Point;
 import java.util.Scanner;
 
 
+
 public class Movement {
 	static Point location = new Point(3, 0);
 	static Point lastLocation = new Point(3, 0);

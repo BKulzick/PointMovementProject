@@ -8,7 +8,7 @@ public class PointMovementGame {
 
 		input = new Scanner(System.in);
 
-		System.out.println("Use the words north,south,east,and west to move around.");
+		System.out.println("Use the words north, south, east, and west to move around.");
 
 		while (true) {
 

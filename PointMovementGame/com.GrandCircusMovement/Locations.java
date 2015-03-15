@@ -19,7 +19,7 @@ public class Locations extends Movement{
 	public static boolean wallCheck(char direction, Point check){
 		
 		if (check.x==3 && direction=='e'){
-			System.out.println("You hit a wall!");
+			System.out.println("You hit a wall!!!");
 		return false;}
 		
 		if (check.equals(kitchen) && direction=='e'){
